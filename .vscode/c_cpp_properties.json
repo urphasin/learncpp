@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "MSYS2-UCRT64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\Users\\amuga.otito\\Sources\\msys64\\ucrt64\\include",
+        "C:\\Users\\amuga.otito\\Sources\\msys64\\ucrt64\\include\\GL",
+        "C:\\Users\\amuga.otito\\Sources\\msys64\\ucrt64\\include\\GLFW",
+        "C:\\Users\\amuga.otito\\Sources\\msys64\\ucrt64\\include\\glm"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:\\Users\\amuga.otito\\Sources\\msys64\\ucrt64\\bin\\gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
